@@ -1,0 +1,14 @@
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistSystem.ConsoleClient\bin\Debug\ArtistSystem.ConsoleClient.exe.config
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistSystem.ConsoleClient\bin\Debug\ArtistSystem.ConsoleClient.exe
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistSystem.ConsoleClient\bin\Debug\ArtistSystem.ConsoleClient.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistSystem.ConsoleClient\bin\Debug\ArtistsSystem.Data.dll
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistSystem.ConsoleClient\bin\Debug\ArtistsSystem.Models.dll
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistSystem.ConsoleClient\bin\Debug\ArtistsSystem.Data.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistSystem.ConsoleClient\bin\Debug\ArtistsSystem.Models.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistSystem.ConsoleClient\obj\Debug\ArtistSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistSystem.ConsoleClient\obj\Debug\ArtistSystem.ConsoleClient.exe
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistSystem.ConsoleClient\obj\Debug\ArtistSystem.ConsoleClient.pdb

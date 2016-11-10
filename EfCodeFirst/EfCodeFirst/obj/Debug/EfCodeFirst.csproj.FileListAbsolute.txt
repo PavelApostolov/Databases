@@ -1,0 +1,10 @@
+c:\users\pavel\documents\visual studio 2015\Projects\EfCodeFirst\EfCodeFirst\bin\Debug\EfCodeFirst.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\EfCodeFirst\EfCodeFirst\bin\Debug\EfCodeFirst.exe
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\EfCodeFirst\EfCodeFirst\bin\Debug\EfCodeFirst.pdb
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\EfCodeFirst\EfCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\EfCodeFirst\EfCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\EfCodeFirst\EfCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\EfCodeFirst\EfCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\EfCodeFirst\EfCodeFirst\obj\Debug\EfCodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\EfCodeFirst\EfCodeFirst\obj\Debug\EfCodeFirst.exe
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\EfCodeFirst\EfCodeFirst\obj\Debug\EfCodeFirst.pdb

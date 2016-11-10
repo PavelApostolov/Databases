@@ -1,0 +1,10 @@
+c:\users\pavel\documents\visual studio 2015\Projects\BookStore\BookStore.Models\bin\Debug\BookStore.Models.dll.config
+c:\users\pavel\documents\visual studio 2015\Projects\BookStore\BookStore.Models\bin\Debug\BookStore.Models.dll
+c:\users\pavel\documents\visual studio 2015\Projects\BookStore\BookStore.Models\bin\Debug\BookStore.Models.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\BookStore\BookStore.Models\bin\Debug\EntityFramework.dll
+c:\users\pavel\documents\visual studio 2015\Projects\BookStore\BookStore.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pavel\documents\visual studio 2015\Projects\BookStore\BookStore.Models\bin\Debug\EntityFramework.xml
+c:\users\pavel\documents\visual studio 2015\Projects\BookStore\BookStore.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pavel\documents\visual studio 2015\Projects\BookStore\BookStore.Models\obj\Debug\BookStore.Models.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2015\Projects\BookStore\BookStore.Models\obj\Debug\BookStore.Models.dll
+c:\users\pavel\documents\visual studio 2015\Projects\BookStore\BookStore.Models\obj\Debug\BookStore.Models.pdb

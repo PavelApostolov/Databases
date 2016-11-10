@@ -1,0 +1,10 @@
+C:\Users\Pavel\documents\visual studio 2015\Projects\CompanySampleDataImporter\CompanySampleDataImporter.Data\bin\Debug\CompanySampleDataImporter.Data.dll.config
+C:\Users\Pavel\documents\visual studio 2015\Projects\CompanySampleDataImporter\CompanySampleDataImporter.Data\bin\Debug\CompanySampleDataImporter.Data.dll
+C:\Users\Pavel\documents\visual studio 2015\Projects\CompanySampleDataImporter\CompanySampleDataImporter.Data\bin\Debug\CompanySampleDataImporter.Data.pdb
+C:\Users\Pavel\documents\visual studio 2015\Projects\CompanySampleDataImporter\CompanySampleDataImporter.Data\bin\Debug\EntityFramework.dll
+C:\Users\Pavel\documents\visual studio 2015\Projects\CompanySampleDataImporter\CompanySampleDataImporter.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pavel\documents\visual studio 2015\Projects\CompanySampleDataImporter\CompanySampleDataImporter.Data\bin\Debug\EntityFramework.xml
+C:\Users\Pavel\documents\visual studio 2015\Projects\CompanySampleDataImporter\CompanySampleDataImporter.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pavel\documents\visual studio 2015\Projects\CompanySampleDataImporter\CompanySampleDataImporter.Data\obj\Debug\CompanySampleDataImporter.Data.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2015\Projects\CompanySampleDataImporter\CompanySampleDataImporter.Data\obj\Debug\CompanySampleDataImporter.Data.dll
+C:\Users\Pavel\documents\visual studio 2015\Projects\CompanySampleDataImporter\CompanySampleDataImporter.Data\obj\Debug\CompanySampleDataImporter.Data.pdb

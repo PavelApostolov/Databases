@@ -1,0 +1,14 @@
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Data\bin\Debug\ArtistsSystem.Data.dll.config
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Data\bin\Debug\ArtistsSystem.Data.dll
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Data\bin\Debug\ArtistsSystem.Data.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Data\bin\Debug\ArtistsSystem.Models.dll
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Data\bin\Debug\EntityFramework.dll
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Data\bin\Debug\ArtistsSystem.Models.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Data\bin\Debug\EntityFramework.xml
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Data\obj\Debug\ArtistsSystem.Data.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Data\obj\Debug\ArtistsSystem.Data.dll
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Data\obj\Debug\ArtistsSystem.Data.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Data\obj\Debug\ArtistsSystem.Data.Migrations.InitialCreate.resources
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Data\obj\Debug\ArtistsSystem.Data.csproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+C:\Users\Pavel\documents\visual studio 2015\Projects\EfCodeFirst\NorthWind.Data\bin\Debug\NorthWind.Data.dll.config
+C:\Users\Pavel\documents\visual studio 2015\Projects\EfCodeFirst\NorthWind.Data\bin\Debug\NorthWind.Data.dll
+C:\Users\Pavel\documents\visual studio 2015\Projects\EfCodeFirst\NorthWind.Data\bin\Debug\NorthWind.Data.pdb
+C:\Users\Pavel\documents\visual studio 2015\Projects\EfCodeFirst\NorthWind.Data\bin\Debug\EntityFramework.dll
+C:\Users\Pavel\documents\visual studio 2015\Projects\EfCodeFirst\NorthWind.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pavel\documents\visual studio 2015\Projects\EfCodeFirst\NorthWind.Data\bin\Debug\EntityFramework.xml
+C:\Users\Pavel\documents\visual studio 2015\Projects\EfCodeFirst\NorthWind.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pavel\documents\visual studio 2015\Projects\EfCodeFirst\NorthWind.Data\obj\Debug\NorthWind.Data.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2015\Projects\EfCodeFirst\NorthWind.Data\obj\Debug\NorthWind.Data.dll
+C:\Users\Pavel\documents\visual studio 2015\Projects\EfCodeFirst\NorthWind.Data\obj\Debug\NorthWind.Data.pdb
+C:\Users\Pavel\documents\visual studio 2015\Projects\EfCodeFirst\NorthWind.Data\obj\Debug\NorthWind.Data.Migrations.InitialCreate.resources
+C:\Users\Pavel\documents\visual studio 2015\Projects\EfCodeFirst\NorthWind.Data\obj\Debug\NorthWind.Data.csproj.GenerateResource.Cache
+C:\Users\Pavel\documents\visual studio 2015\Projects\EfCodeFirst\NorthWind.Data\obj\Debug\NorthWind.Data.Migrations.addedage.resources

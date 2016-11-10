@@ -1,0 +1,10 @@
+C:\Users\Pavel\documents\visual studio 2015\Projects\ToysStore\ToysStore.Data\bin\Debug\ToysStore.Data.dll.config
+C:\Users\Pavel\documents\visual studio 2015\Projects\ToysStore\ToysStore.Data\bin\Debug\ToysStore.Data.dll
+C:\Users\Pavel\documents\visual studio 2015\Projects\ToysStore\ToysStore.Data\bin\Debug\ToysStore.Data.pdb
+C:\Users\Pavel\documents\visual studio 2015\Projects\ToysStore\ToysStore.Data\bin\Debug\EntityFramework.dll
+C:\Users\Pavel\documents\visual studio 2015\Projects\ToysStore\ToysStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pavel\documents\visual studio 2015\Projects\ToysStore\ToysStore.Data\bin\Debug\EntityFramework.xml
+C:\Users\Pavel\documents\visual studio 2015\Projects\ToysStore\ToysStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pavel\documents\visual studio 2015\Projects\ToysStore\ToysStore.Data\obj\Debug\ToysStore.Data.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\documents\visual studio 2015\Projects\ToysStore\ToysStore.Data\obj\Debug\ToysStore.Data.dll
+C:\Users\Pavel\documents\visual studio 2015\Projects\ToysStore\ToysStore.Data\obj\Debug\ToysStore.Data.pdb

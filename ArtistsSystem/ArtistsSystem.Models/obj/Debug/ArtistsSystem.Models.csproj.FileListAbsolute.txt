@@ -1,0 +1,5 @@
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Models\bin\Debug\ArtistsSystem.Models.dll
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Models\bin\Debug\ArtistsSystem.Models.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Models\obj\Debug\ArtistsSystem.Models.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Models\obj\Debug\ArtistsSystem.Models.dll
+c:\users\pavel\documents\visual studio 2015\Projects\ArtistsSystem\ArtistsSystem.Models\obj\Debug\ArtistsSystem.Models.pdb

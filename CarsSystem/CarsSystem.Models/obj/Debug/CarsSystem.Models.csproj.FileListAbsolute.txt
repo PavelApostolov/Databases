@@ -1,0 +1,10 @@
+c:\users\pavel\documents\visual studio 2015\Projects\CarsSystem\CarsSystem.Models\bin\Debug\CarsSystem.Models.dll.config
+c:\users\pavel\documents\visual studio 2015\Projects\CarsSystem\CarsSystem.Models\bin\Debug\CarsSystem.Models.dll
+c:\users\pavel\documents\visual studio 2015\Projects\CarsSystem\CarsSystem.Models\bin\Debug\CarsSystem.Models.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\CarsSystem\CarsSystem.Models\bin\Debug\EntityFramework.dll
+c:\users\pavel\documents\visual studio 2015\Projects\CarsSystem\CarsSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pavel\documents\visual studio 2015\Projects\CarsSystem\CarsSystem.Models\bin\Debug\EntityFramework.xml
+c:\users\pavel\documents\visual studio 2015\Projects\CarsSystem\CarsSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pavel\documents\visual studio 2015\Projects\CarsSystem\CarsSystem.Models\obj\Debug\CarsSystem.Models.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2015\Projects\CarsSystem\CarsSystem.Models\obj\Debug\CarsSystem.Models.dll
+c:\users\pavel\documents\visual studio 2015\Projects\CarsSystem\CarsSystem.Models\obj\Debug\CarsSystem.Models.pdb
